@@ -1,0 +1,55 @@
+I speak computer: Making medical information Big Data-ready
+
+At Fred Hutch, natural language processing is being used to find hidden patterns in medical information from thousands of consenting cancer patients, offering a body of data that can inform each patient's treatment.
+Not so long ago, a patient¡¯s medical records were often kept in isolated paper files, hodgepodges of handwritten notes and test results, accessible to only one physician at a time.
+
+That changed with the advent of electronic medical records, where multiple care providers could access them. Now you¡¯re about to meet the future, in which information from thousands of patients will come together in a single database, offering a body of evidence that can inform each patient¡¯s treatment.
+
+At Fred Hutchinson Cancer Research Center, the Hutch Integrated Data Repository and Archive, or HIDRA, will pull medical information from consenting cancer patients¡¯ files into just such a storehouse. HIDRA will enable researchers to find hidden patterns in cancer development, progression and treatment response ¡ª patterns that will allow them to tailor each patient¡¯s therapy from the instant of diagnosis. 
+
+HIDRA is part of a comprehensive effort, led by Fred Hutch¡¯s Dr. Eric Holland, to change the face of cancer care. A multidisciplinary and multi-institutional effort he leads called Solid Tumor Translational Research harnesses the latest research technologies and far-thinking scientific collaborations to accelerate cancer treatment discoveries and bring them to patient bedsides. HIDRA¡¯s wealth of information will be critical to this mission.
+
+But to fill HIDRA with raw material that can drive this revolution, all the information about each patient and his or her treatment ¡ª from medical history to disease staging ¡ª must be translated from human language (or ¡°natural¡± language) into data that a computer can analyze.
+
+In short, one has to speak computer.
+
+That¡¯s where natural language processing (NLP) comes in. Computers need data fed to them in easily digested tidbits, but most medical data is collected in the free-form written observations of physicians. NLP, a burgeoning field in computer programming, uses specialized algorithms to sift through human language and find the important bits of information, convert them into computer-comprehensible formats, and input them into databases with minimal help from people.
+
+Currently, professionals known as medical abstractors have the time-consuming task of sifting through these notes to extract relevant bits, such as cancer type, stage at diagnosis, or the dates of important medical procedures, to hand-feed into databases. However, as cancer care evolves and data piles up, the process will need streamlining.
+
+NLP can take over some of the most tedious tasks and free up medical abstractors to deal with complex or ambiguous information that needs expertise to interpret.
+
+¡°We¡¯ll always need the human element,¡± explained Emily Silgard, Fred Hutch¡¯s research engineer who is spearheading HIDRA¡¯s NLP efforts. ¡°NLP won¡¯t replace people, but it can make getting data into the right format easier.¡±
+
+Making computers smarter
+
+Human, or natural, languages include flexibility that allows similar concepts to be conveyed in different ways and, conversely, different concepts to be conveyed using similar language.
+
+It¡¯s this high potential for ambiguity that trips up computers, said Silgard, who likes to quote Groucho Marx as an example: ¡°I shot an elephant in my pajamas. How he got in my pajamas I¡¯ll never know.¡± NLP algorithms can help give computers context to understand why it¡¯s unlikely an elephant would wear pajamas.
+
+Medical and pathology notes present similar problems. A simple keyword search for ¡°cancer¡± wouldn¡¯t be enough for a computer to accurately distinguish notes from patients with cancer from those without because a clinician may write ¡°no evidence of cancer¡± in a healthy patient¡¯s notes. Yet it would be impractical for expert medical abstractors to sort through every pathology note.
+
+Instead, a human-NLP team could make the process both efficient and accurate. An NLP algorithm would contain rules governing how to automatically sort notes containing the word ¡°cancer¡± next to ¡°no evidence;¡± notes with even more ambiguous wording would be flagged for human interpretation.
+
+Other examples of seemingly simple but difficult-to-interpret language abound, Silgard said. ¡°IV¡± might mean ¡°intravenous,¡± referring to the route of drug administration, or ¡°4,¡± as in a ¡°stage IV¡± cancer diagnosis. A medical abstractor could distinguish these immediately from context but would have to read the whole record to find this one piece of data. With the right programming, an NLP algorithm can help abstractors by highlighting important sections of text for review or even proposing a computer-generated interpretation along with an estimate of its accuracy.
+
+¡°NLP is a tool to be used in a partnership between humans and machines,¡± explained Andrea Kahn, a graduate intern working to develop computer programs to extract important dates from clinic notes for the HIDRA database. ¡°The idea is to help people work with more data.¡±
+
+Kathryn Egan, an NLP programmer working at the Hutchinson Institute for Cancer Outcomes Research (HICOR) points out another of the algorithms¡¯ advantages: ¡°Once you get a program in place, it works just as efficiently even if you throw more data at it ¡ª which is not true of people.¡±
+
+Getting the data flowing
+
+At HICOR, researchers study strategies to give cancer patients exemplary but cost-effective care, and Egan is using NLP to identify which breast cancer patients are eligible or ineligible for specific research studies. The type of information required to make this assessment, however, may be found in only a few medical notes out of a patient¡¯s entire health record. Egan¡¯s algorithms will help narrow down the number of clinic notes human abstractors need to read by up to 70 percent.
+
+Silgard recently applied NLP to help care providers at Fred Hutch¡¯s treatment arm, Seattle Cancer Care Alliance, allocate resources more effectively. SCCA staff members need to accurately assign sarcoma patients to the correct service arm to ensure adequate resources get funneled to the appropriate patient care services. If too many sarcoma patients are classified by their tumor¡¯s location rather than its type, sarcoma patient services may be underfunded while other service areas, such as gastrointestinal or breast cancer, receive more funding than they require.
+
+Silgard used NLP to help sort through pathology notes and make sure patients entered SCCA¡¯s system correctly. Her approach is expected to be scaled up and applied to more types of cancer patients, beginning with melanoma patients.
+
+¡°The idea is to free people from the mundane tasks so they can do more,¡± Silgard said. There are few abstractors but many researchers who need access to medical data. ¡°There¡¯s always more to be done.¡±
+
+NLP tools for HIDRA are being developed by Fred Hutch in partnership with LabKey Software and will be made available to the wider open source community.
+Dr. Sabrina Richards, a staff writer at Fred Hutchinson Cancer Research Center, has written about scientific research and the environment for The Scientist and OnEarth Magazine. She has a Ph.D. in immunology from the University of Washington, an M.A. in journalism and an advanced certificate from the Science, Health and Environmental Reporting Program at New York University. Reach her at srichar2@fredhutch.org.
+
+Are you interested in reprinting or republishing this story? Be our guest! We want to help connect people with the information they need. We just ask that you link back to the original article, preserve the author¡¯s byline and refrain from making edits that alter the original context. Questions? Email senior writer/editor Linda Dahlstrom at ldahlstr@fredhutch.org.
+
+Solid tumors, such as sarcomas, are the focus of Solid Tumor Translational Research, a network comprised of Fred Hutchinson Cancer Research Center, UW Medicine and Seattle Cancer Care Alliance. STTR is bridging laboratory sciences and patient care to provide the most precise treatment options for patients with solid tumor cancers.

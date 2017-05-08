@@ -1,0 +1,12 @@
+Study: Electronic Health Records Rising Fast
+Electronic health records (EHR) uptake in the U.S. has accelerated dramatically as a result of government initiatives and the considerable resources healthcare providers have invested over the past five years, says research firm Frost & Sullivan. Electronic health records have become the heart of health IT, the firm says, and U.S. clinicians use them on a daily basis.
+
+Frost & Sullivan¡¯s latest health IT analysis, ¡°EHR Usability¡ªCIOs Weigh in On What¡¯s Needed to Improve Information Retrieval,¡± finds that as the market matures and the volume of EHR data proliferates, ensuring reliable information retrieval from EHRs at the point-of-care will become a priority for healthcare providers.
+
+Despite significant progress in EHR adoption, many healthcare providers face pitfalls, the report says. Frequently cited pain points include slow and inaccurate information retrieval from EHRs as well as difficulty in finding and reviewing data, both of which result in productivity losses for end-users as well as potential risks to patient safety.
+
+Other challenges are the inability to create targeted queries or easily access unstructured data such as clinician notes; and time-consuming data entry tasks.
+
+¡°U.S. regulatory authorities will take notice of the growing chorus of complaints about EHR usability, resulting in a push to devote more resources to solving this issue,¡± Nancy Fabozzi, Frost & Sullivan Connected Health principal analyst, said in a statement. ¡°Further, the high levels of end-user frustration with usability present strong business opportunities for pioneering technology vendors.¡±
+
+New vendors are emerging to address these challenges, the report says. Innovation will most likely come from companies with deep expertise in advanced enterprise search technology. Natural language processing (NLP) and visualization dashboards are the technologies most suitable to improve EHR usability, it says.

@@ -1,0 +1,17 @@
+Largest US Bank Deploys V-Person? Natural Language Processing (NLP) Help Technology from Creative Virtual
+An enterprise bank in the United States made the strategic decision to use Creative Virtual's V-Person virtual agent solution for the loans, banking and credit cards sections of their website. Their goal was to create a great customer experience on authenticated pages.
+This bank began their search for a virtual assistant solution to meet specific criteria such as: 
+Natural Language Processing (NLP) to ensure that the virtual agent was able to interpret complex questions asked by users
+Ability to operate in Spanish
+Integration with back-end systems that contained customer profile data in order to create a personalized experience
+A system the bank could manage and maintain a workflow to support a complex content approval flow
+A solution that could be run in web, mobile and tablet environments using responsive design
+Technology the bank could host, in order to meet the stringent security regulations of their industry
+A solution that was scalable enough to work in one of the world¡¯s largest banks
+Operability on a WebSphere, Linux, SQL Server stack across multiple servers and locations
+ROI within a year
+The enterprise bank selected Creative Virtual based on these needs. V-Person's reporting functionality enables this bank to quickly respond to questions customers are asking the virtual assistant, giving the bank great insight into its customers.
+"V-Person is a really scalable solution that can accommodate the needs of large enterprises," Richard Simons, CEO of Creative Virtual USA said. "Using virtual agents on authenticated pages can really drive a positive and personalized customer experience."
+Click here to view the entire customer success story.
+About Creative Virtual 
+Creative Virtual is a leader in self-service customer experience management solutions for enterprises. Global organizations like HSBC, Verizon, E*TRADE, Lloyds Banking Group, Renault and National Rail Enquiries rely on our technology to optimize their customer support, sales, marketing and call center teams, reduce costs, increase online sales, and achieve operational excellence across mobile, web, and social media channels. Since 2004, Creative Virtual has built the most advanced technologies in knowledge management, natural language processing, and virtual assistants to help businesses deliver intelligent, personalized customer experiences that reduces email and call volume, builds brand loyalty, and increases customer engagement at a lower cost per conversation. Delivering accuracy of over 90%, our platform is the most compelling self-service product in the world today. For more information about Creative Virtual solutions, products and software, please visit our website at http://www.creativevirtual.com.
